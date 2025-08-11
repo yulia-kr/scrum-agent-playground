@@ -1,0 +1,56 @@
+/pdfs/*
+!/pdfs/.gitkeep
+
+# === Python ===
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# === Jupyter Notebook checkpoints ===
+.ipynb_checkpoints/
+
+# === Environment & dependencies ===
+.env
+.env.*
+*.env
+*.venv
+.venv/
+venv/
+ENV/
+
+# === Credentials & secrets ===
+*.key
+*.pem
+*.p12
+*.crt
+*.csr
+*.der
+*.pfx
+config.json
+credentials.json
+token.json
+secrets.yaml
+secrets.json
+
+# === Logs & temp ===
+*.log
+*.tmp
+*.temp
+*.swp
+*.swo
+
+# === OS-specific ===
+.DS_Store
+Thumbs.db
+
+# === VSCode / IDE ===
+.vscode/
+.idea/
+*.code-workspace
+
+# === Misc ===
+*.bak

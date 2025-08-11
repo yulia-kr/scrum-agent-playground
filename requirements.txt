@@ -1,0 +1,16 @@
+# Core
+python-dotenv
+crewai
+
+# Jupyter
+notebook
+ipykernel
+
+# AI & LLM utilities
+openai
+
+# Data processing
+pandas
+
+# (Optional) Visualization
+matplotlib
