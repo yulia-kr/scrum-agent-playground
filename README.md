@@ -30,7 +30,10 @@ jupyter notebook scrum_crew_ai.ipynb
 ```
 
 ## 🌐 Try Online
-You can explore the notebook without installing anything locally. 
+You can explore the notebook without installing anything locally:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yulia-kr/scrum-agent-playground/blob/main/scrum_crew_ai.ipynb)
+
 
 
 ## 🎯 Learning Goals
